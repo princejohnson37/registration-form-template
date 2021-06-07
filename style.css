@@ -1,0 +1,81 @@
+.welcome-body{
+    background-color: #2A4153;
+
+}
+a{
+    color: #734F3C ;
+}
+.welcome{
+    margin:auto;
+    width: 60%;
+    background-color: #734F3C;
+    color: #E1D594;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 400%;
+    text-align: center;
+    border-radius: 20px;
+    border: black;
+    border-style: dashed;
+    border-width: 5px;
+    font-family: monospace;
+}
+.center{
+    margin: auto;
+    width: 10%;
+}
+.reg{
+    background-color: #D5CE97;
+    color: #734F3C;
+    font-size: 150%;
+    text-align: center;
+    border-radius: 212px;
+    font-family: monospace;
+    /* width: 120px;
+    height: 50px; */
+    margin-left: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+
+}
+
+/*form style*/
+.form-body{
+    background-color: #734F3C;
+}
+.blue-box{
+    border-radius: 8px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+    background-color: #2A4153;
+    color: #E1D594;
+    font-family: monospace;
+    font-size: large;
+}
+input{
+    color: brown;
+    background-color: #D5CE97;
+}
+span{
+    color: black;
+    background-color: blanchedalmond ;
+}
+.submit{
+    border-radius: 30px;
+    height: 30px;
+    width: 120px;
+}
+select{
+    color: brown;
+    background-color: #D5CE97;
+}
